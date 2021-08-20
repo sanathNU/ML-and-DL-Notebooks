@@ -1,0 +1,15 @@
+day,outlook,temp,humidity,wind,play
+D1,sunny,Hot,High,FALSE,no
+D2,sunny,Hot,High,TRUE,no
+D3,overcast,Hot,High,FALSE,yes
+D4,rainy,Mild,High,FALSE,yes
+D5,rainy,Cool,Normal,FALSE,yes
+D6,rainy,Cool,Normal,TRUE,no
+D7,overcast,Cool,Normal,TRUE,yes
+D8,sunny,Mild,High,FALSE,no
+D9,sunny,Cool,Normal,FALSE,yes
+D10,rainy,Mild,Normal,FALSE,yes
+D11,sunny,Mild,Normal,TRUE,yes
+D12,overcast,Mild,High,TRUE,yes
+D13,overcast,Hot,Normal,FALSE,yes
+D14,rainy,Mild,High,TRUE,no
